@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="347b541f-1a30-4db7-8c04-268a3d1c8feb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/201025/BOJ/17779.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201025/BOJ/17837.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201025/BOJ/19237.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibXgJy8TyKqqHaq4ZUQmy2capv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201025/BOJ" />
+      <recent name="$PROJECT_DIR$/201018/BOJ" />
+      <recent name="$PROJECT_DIR$/201011/Company" />
+      <recent name="$PROJECT_DIR$/201011" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201011/BOJ" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="347b541f-1a30-4db7-8c04-268a3d1c8feb" name="Default Changelist" comment="" />
+      <created>1602177374884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602177374884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602178154776">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.2560.1415/-1792.164.1792.1095@0.25.2560.1415" timestamp="1602178154776" />
+    <state x="220" y="461" key="SettingsEditor" timestamp="1602177685413">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="220" y="461" key="SettingsEditor/0.25.2560.1415/-1792.164.1792.1095@0.25.2560.1415" timestamp="1602177685413" />
+  </component>
+</project>
