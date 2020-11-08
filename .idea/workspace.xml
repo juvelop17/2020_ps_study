@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="347b541f-1a30-4db7-8c04-268a3d1c8feb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/201025/BOJ/17779.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201025/BOJ/17837.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201025/BOJ/19237.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +23,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/201101/BOJ" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201011/BOJ" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201101/BOJ" />
+      <recent name="$PROJECT_DIR$/201101/codeforces" />
       <recent name="$PROJECT_DIR$/201025/BOJ" />
       <recent name="$PROJECT_DIR$/201018/BOJ" />
       <recent name="$PROJECT_DIR$/201011/Company" />
-      <recent name="$PROJECT_DIR$/201011" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/201011/BOJ" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -53,10 +52,11 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602178154776">
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604243916219">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.2560.1415/-1792.164.1792.1095@0.25.2560.1415" timestamp="1602178154776" />
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.2560.1415/-1792.345.1792.1095@0.25.2560.1415" timestamp="1604243916219" />
     <state x="220" y="461" key="SettingsEditor" timestamp="1602177685413">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
