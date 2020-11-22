@@ -27,15 +27,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/201011/BOJ" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201109" />
       <recent name="$PROJECT_DIR$/201101/BOJ" />
       <recent name="$PROJECT_DIR$/201101/codeforces" />
       <recent name="$PROJECT_DIR$/201025/BOJ" />
       <recent name="$PROJECT_DIR$/201018/BOJ" />
-      <recent name="$PROJECT_DIR$/201011/Company" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201011/BOJ" />
     </key>
   </component>
   <component name="SvnConfiguration">
