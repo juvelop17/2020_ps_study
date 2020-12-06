@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="347b541f-1a30-4db7-8c04-268a3d1c8feb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/201206/#E99_DIV2/!B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/#E99_DIV2/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/#E99_DIV2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/#E99_DIV2/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/#E99_DIV2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/BOJ/2309.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/BOJ/2468.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/BOJ/2503.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/BOJ/2644.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201206/BOJ/3048.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/201122" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/201206/BOJ" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -32,11 +42,11 @@
       <recent name="$PROJECT_DIR$/201011/BOJ" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201206/BOJ" />
+      <recent name="$PROJECT_DIR$/201206" />
+      <recent name="$PROJECT_DIR$/201129/BOJ" />
+      <recent name="$PROJECT_DIR$/201129" />
       <recent name="$PROJECT_DIR$/201122" />
-      <recent name="$PROJECT_DIR$/201109" />
-      <recent name="$PROJECT_DIR$/201101/BOJ" />
-      <recent name="$PROJECT_DIR$/201101/codeforces" />
-      <recent name="$PROJECT_DIR$/201025/BOJ" />
     </key>
   </component>
   <component name="SvnConfiguration">
