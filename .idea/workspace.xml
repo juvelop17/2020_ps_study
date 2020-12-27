@@ -23,20 +23,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/201206/BOJ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/201227" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/201122/BOJ" />
-      <recent name="$PROJECT_DIR$/201011/BOJ" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201213/BOJ" />
+      <recent name="$PROJECT_DIR$/201213" />
       <recent name="$PROJECT_DIR$/201206/BOJ" />
       <recent name="$PROJECT_DIR$/201206" />
       <recent name="$PROJECT_DIR$/201129/BOJ" />
-      <recent name="$PROJECT_DIR$/201129" />
-      <recent name="$PROJECT_DIR$/201122" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/201122/BOJ" />
+      <recent name="$PROJECT_DIR$/201011/BOJ" />
     </key>
   </component>
   <component name="SvnConfiguration">
