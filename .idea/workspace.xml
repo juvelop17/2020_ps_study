@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="347b541f-1a30-4db7-8c04-268a3d1c8feb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/10026.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/10448.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/11403.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/11403_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/11724.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210110/BOJ/11866.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
